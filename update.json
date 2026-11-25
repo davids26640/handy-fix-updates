@@ -1,8 +1,8 @@
 {
-  "version": "q9",
-  "time": 1795617994,
-  "url": "https://raw.githubusercontent.com/davids26640/handy-fix-updates/main/bundles/q9.zip",
-  "checksum": "d60a1acf42da70671e9ad009ff6f8a256e5978da5bd641bd4be1935f379d867b",
+  "version": "q10",
+  "time": 1795621314,
+  "url": "https://raw.githubusercontent.com/davids26640/handy-fix-updates/main/bundles/q10.zip",
+  "checksum": "0b8487b31a6f2e0f981a369b466750d22b89d091283d72f8b0a5487d9a1d286d",
   "note": "",
-  "commit": "816ebd4"
+  "commit": "ecc8376"
 }
